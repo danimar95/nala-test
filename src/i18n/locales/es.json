@@ -1,0 +1,23 @@
+{
+  "main": {
+    "title":"Editando encabezado",
+    "confirmBtn": "Guardar",
+    "confirmationTitle": "Listo!",
+    "confirmationText": "El encabezado ha sido editado.",
+    "cancelBtn": "Cancelar",
+    "upload": "Subir archivo",
+    "chart": "Ver organigrama",
+    "back": "Ir atrás",
+    "language": "Cambiar lenguaje",
+    "langEs": "Cambiar a español",
+    "langEn": "Cambiar a inglés"
+  },
+  "organization-chart": {
+    "selectLabel": "Mes",
+    "download": "Descargar",
+    "total": "Total de nomina"
+  },
+  "chart-node": {
+    "upload": "Subir foto"
+  }
+}

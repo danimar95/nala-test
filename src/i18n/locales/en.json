@@ -1,0 +1,22 @@
+{
+  "main": {
+    "title":"Editing header",
+    "confirmBtn": "Save",
+    "confirmationTitle": "Done!",
+    "confirmationText": "The header has been edited.",
+    "cancelBtn": "Cancel",
+    "upload": "Upload file",
+    "chart": "View Organization chart",
+    "back": "Go back",
+    "langEs": "Change to spanish",
+    "langEn": "Change to English"
+  },
+  "organization-chart": {
+    "selectLabel": "Month",
+    "download": "Download",
+    "total": "Total payroll"
+  },
+  "chart-node": {
+    "upload": "Upload picture"
+  }
+}
